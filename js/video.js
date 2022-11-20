@@ -1,4 +1,4 @@
-// select DOM elements
+// DOM element selectors
 const video = document.querySelector("#videoplayer");
 const buttonPlay = document.querySelector("#play");
 const buttonPause = document.querySelector("#pause");
